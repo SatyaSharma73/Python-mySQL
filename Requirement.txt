@@ -1,1 +1,4 @@
+Mysql or any other version of SQL should be installed in your system
+mysql.connector-python package must be installed .
+
 
